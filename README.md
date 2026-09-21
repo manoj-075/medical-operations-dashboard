@@ -1,17 +1,5 @@
 # Medical Operations Dashboard
 
-## 🔗 Team Project Repository
-
-This is a collaborative team project developed by Team B — Batch 1.
-
-**Common Team Repository:**
-https://github.com/manoj-075/medical-operations-dashboard
-
-## 🚀 Live Project
-
-🔗 **Medical Operations Dashboard:**  
-[Open Live Dashboard](https://medical-operations-dashboardgit-me5eunufwuk9efvkjkmrmz.streamlit.app/)
-
 A comprehensive healthcare operations analytics project designed to improve decision-making in patient flow, treatment demand, capacity planning, and resource utilization across a multi-department hospital environment.
 
 The repository brings together a cleaned healthcare operations dataset, interactive dashboard development, KPI analysis, and executive-ready reporting in a structured, team-driven workflow.
@@ -432,3 +420,15 @@ This repository contains the complete working project assets for the Medical Ope
 The project is maintained in the common team repository:
 
 https://github.com/manoj-075/medical-operations-dashboard
+
+---
+
+## 🚀 Project Links
+
+🔗 **GitHub Repository:**  
+[Medical Operations Dashboard](https://github.com/manoj-075/medical-operations-dashboard)
+
+🔗 **Live Project:**  
+[Open Live Dashboard](https://medical-operations-dashboardgit-me5eunufwuk9efvkjkmrmz.streamlit.app/)
+
+---
