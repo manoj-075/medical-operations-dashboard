@@ -7,6 +7,11 @@ This is a collaborative team project developed by Team B — Batch 1.
 **Common Team Repository:**
 https://github.com/manoj-075/medical-operations-dashboard
 
+## 🚀 Live Project
+
+🔗 **Medical Operations Dashboard:**  
+[Open Live Dashboard](https://medical-operations-dashboardgit-me5eunufwuk9efvkjkmrmz.streamlit.app/)
+
 A comprehensive healthcare operations analytics project designed to improve decision-making in patient flow, treatment demand, capacity planning, and resource utilization across a multi-department hospital environment.
 
 The repository brings together a cleaned healthcare operations dataset, interactive dashboard development, KPI analysis, and executive-ready reporting in a structured, team-driven workflow.
@@ -320,7 +325,8 @@ Milestone 4 concluded the project by integrating operational intelligence, regio
 
 ### Live Dashboard
 
-> Live dashboard link will be added once the team deployment URL is finalized.
+🔗 **Medical Operations Dashboard:**  
+[Open Live Dashboard](https://medical-operations-dashboardgit-me5eunufwuk9efvkjkmrmz.streamlit.app/)
 
 ### Final Outcome
 
